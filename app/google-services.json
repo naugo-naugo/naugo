@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "263038912741",
+    "firebase_url": "https://naugo-2019.firebaseio.com",
+    "project_id": "naugo-2019",
+    "storage_bucket": "naugo-2019.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:263038912741:android:8d9445ee44c1c35db16c0c",
+        "android_client_info": {
+          "package_name": "com.example.naugo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "263038912741-9s0ovg24b9t9o9fvrokpfice9oes8iji.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnpswam-3VYmkQi7-rAOh9Ayb--Ux6MhI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "263038912741-9s0ovg24b9t9o9fvrokpfice9oes8iji.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:263038912741:android:c2b5c9e1f2037444b16c0c",
+        "android_client_info": {
+          "package_name": "com.naugo.naugo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "263038912741-9s0ovg24b9t9o9fvrokpfice9oes8iji.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnpswam-3VYmkQi7-rAOh9Ayb--Ux6MhI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "263038912741-9s0ovg24b9t9o9fvrokpfice9oes8iji.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

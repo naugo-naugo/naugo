@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#33cccc</color>
+    <color name="colorCalender">#008577</color>
+    <color name="colorPrimaryDark">#33cccc</color>
+    <color name="colorAccent">#33cccc</color>
+    <color name="white">#000000</color>
+    <color name="white2">#ffffff</color>
+
+    <color name="colorButton"> #0000ff</color>
+    <color name="greyButton">#808080</color>
+
+    <color name="background_color">#F5F5F5</color>
+    <color name="naugoTheme">#33cccc</color>
+
+</resources>
